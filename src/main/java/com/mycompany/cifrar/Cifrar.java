@@ -32,10 +32,10 @@ public class Cifrar {
                     newCifrado += 'D';
                     break;
                 case '4':
-                    newCifrado += 'F';
+                    newCifrado += 'E';
                     break;
                 case '5':
-                    newCifrado += 'E';
+                    newCifrado += 'F';
                     break;
                 case '6':
                     newCifrado += 'G';
